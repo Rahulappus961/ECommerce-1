@@ -9,7 +9,7 @@ import Footer from "./Footer";
 
 const Home = () => {
     const[show,setshow]=useState(false);
-    const [showimage,setshowimage]=useState(false);
+    const [,setshowimage]=useState(false);
 
     useEffect(()=>{
         setTimeout(()=>{
