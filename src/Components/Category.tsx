@@ -8,7 +8,7 @@ import img8 from "../assets/images/bg.jpg"
 const Category = () => {
   const [selectedOption, setSelectedOption] = useState("");
 
-  const [Product, ] = useState(Products);
+  const [Product,setProduct ] = useState(Products);
 
   const Subscribe = () => {
     alert("Your Email has sented")
