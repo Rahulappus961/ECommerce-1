@@ -2,7 +2,7 @@ import { useState } from "react";
 import Products from "./Products.json";
 
 const Books = () => {
-    const [Product, ] = useState(Products);
+    const [Product,setProduct ] = useState(Products);
 
 
     return (
