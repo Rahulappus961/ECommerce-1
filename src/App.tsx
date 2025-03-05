@@ -15,6 +15,7 @@ function App() {
   return (
 
     <div className='Main-css'>
+      <Create></Create>
       <Router>
         <Routes>
           <Route path='/Create' element={<Create></Create>}> </Route>
