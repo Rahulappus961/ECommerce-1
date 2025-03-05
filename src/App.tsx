@@ -16,7 +16,7 @@ function App() {
     <div className='Main-css'>
       <Router>
         <Routes>
-          <Route path='/' element={<Create></Create>}> </Route>
+          <Route path='/Create' element={<Create></Create>}> </Route>
           <Route path='/LoginSignup' element={<LoginSignup></LoginSignup>}></Route>
           <Route path='/Home' element={<Home></Home>} ></Route>
           <Route path='/About' element={<About></About>}></Route>
