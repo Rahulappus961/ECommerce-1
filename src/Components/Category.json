@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "book": "Moon Dance",
+    "image": "../src/assets/images/book2.webp",
+    "price": 12.99,
+    "category": "horror",
+    "author": "J.R.Rain",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  },
+  {
+    "id": 2,
+    "book": "Red Planet",
+    "image": "../src/assets/images/book9.jpg",
+    "category": "science fiction",
+    "price": 50,
+    "author": "Robert A. Heinlein",
+    "rating": {
+      "rate": 4.6,
+      "count": 145
+    }
+  },
+  {
+    "id": 3,
+    "book": "Sin Eater",
+    "image": "../src/assets/images/book6.jpg",
+    "category": "thriller",
+    "price": 50,
+    "author": "Megan Campisi",
+    "rating": {
+      "rate": 4.6,
+      "count": 145
+    }
+  },
+
+  {
+    "id": 5,
+    "book": "Very Nice",
+    "image": "../src/assets/images/book3.webp",
+    "price": 50,
+    "author": "Mary Dermanoky",
+    "category": "history",
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  },
+  {
+    "id": 6,
+    "book": "Evanscense",
+    "image": "../src/assets/images/book4.jpg",
+    "price": 50,
+    "category": "thriller",
+    "author": "Alex Sarris",
+
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  },
+  {
+    "id": 7,
+    "book": "Independent Woman",
+    "image": "../src/assets/images/book7.jpg",
+    "price": 50,
+    "category": "thriller",
+    "author": "Clyede Stevenson",
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  },
+  {
+    "id": 8,
+    "book": "Dark Space",
+    "image": "../src/assets/images/book8.jpg",
+    "price": 50,
+    "author": "Jasper T. Statt",
+    "category": "science fiction",
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  },
+  {
+    "id": 9,
+    "book": "The Good Boy",
+    "image": "../src/assets/images/book10.jpg",
+    "price": 50,
+    "category": "horror",
+    "author": "Theresa Schwegel",
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  },
+  {
+    "id": 1,
+    "book": "Moon Dance",
+    "image": "../src/assets/images/book2.webp",
+    "price": 12.99,
+    "category": "horror",
+    "author": "J.R.Rain",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  },
+  {
+    "id": 5,
+    "book": "Very Nice",
+    "image": "../src/assets/images/book3.webp",
+    "price": 50,
+    "author": "Mary Dermanoky",
+    "category": "history",
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  },
+  {
+    "id": 11,
+    "book": "Very Nice",
+    "image": "../src/assets/images/book3.webp",
+    "price": 50,
+    "author": "Mary Dermanoky",
+    "category": "history",
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  },
+  {
+    "id": 12,
+    "book": "Evanscense",
+    "image": "../src/assets/images/book4.jpg",
+    "price": 50,
+    "category": "thriller",
+    "author": "Alex Sarris",
+
+    "rating": {
+      "rate": 4.5,
+      "count": 145
+    }
+  }
+]
