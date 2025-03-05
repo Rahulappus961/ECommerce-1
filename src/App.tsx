@@ -1,4 +1,5 @@
 import './App.css'
+import "./index.css"
 import Create from './Components/Create'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './Components/Home'
@@ -14,9 +15,10 @@ function App() {
   return (
 
     <div className='Main-css'>
+
       <Router>
         <Routes>
-          <Route path='/' element={<Create></Create>}> </Route>
+          <Route path='/Create' element={<Create></Create>}> </Route>
           <Route path='/LoginSignup' element={<LoginSignup></LoginSignup>}></Route>
           <Route path='/Home' element={<Home></Home>} ></Route>
           <Route path='/About' element={<About></About>}></Route>
