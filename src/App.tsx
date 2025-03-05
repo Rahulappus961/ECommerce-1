@@ -16,7 +16,7 @@ function App() {
 
     <div className='Main-css'>
 
-      <Router>
+      <Router  basename="/ECommerce-1">
         <Routes>
           <Route path='/Create' element={<Create></Create>}> </Route>
           <Route path='/LoginSignup' element={<LoginSignup></LoginSignup>}></Route>
