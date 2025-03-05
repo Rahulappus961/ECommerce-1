@@ -1,4 +1,5 @@
 import './App.css'
+import './index.css'
 import Create from './Components/Create'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './Components/Home'
